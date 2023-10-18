@@ -5,9 +5,4 @@ Pertemuan4 - Tugas4
 # Prodi : S1 - Teknik Informatika
 
 
-
-=======
-Project 1 (Buatan Sendiri . Beta)
-- Gatau Cara buat Sound mati pas di Click
-
-Kasi Masukann...
+Project 1 = Cara buat soundnya mati pas di click itu gimana..
